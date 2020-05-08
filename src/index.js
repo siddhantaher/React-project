@@ -15,6 +15,7 @@ const App= () =>{
         <input id='name' type='text'/>
         <button style={{color:'white',backgroundColor:'blue'}}>Submit</button>
     </div>;
+    
 };
 
 
